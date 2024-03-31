@@ -4,7 +4,7 @@
 
 Welcome to The Reporter WebView Application! This Flutter application provides a simple and clean interface for accessing The Reporter website using a WebView component. It is designed to offer a seamless browsing experience with intuitive controls and proper error handling. Below are some key features and guidelines for using this application effectively.
 
-<img src="Web-View-App.jpg" alt="Home Page" width="400" />
+<img src="Web-View-App.jpg" alt="Home Page" width="200" height = "400" />.
 ![Home Page](Screenshot-2024-03-31-155754.png)
 
 ## Features
